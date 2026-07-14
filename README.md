@@ -1,477 +1,533 @@
-<!-- ========================================= -->
-<!--            HERO SECTION                   -->
-<!-- ========================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=VARSHA%20G&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+# 👋 Hi, I'm Varsha G
 
-</div>
+### AI & Data Science Student • Python Full Stack Developer • Frontend Developer
 
-<h1 align="center">
-Hi 👋 I'm <b>Varsha G</b>
-</h1>
-
-<h3 align="center">
-
-AI & Data Science Student • Python Full Stack Developer • Frontend Developer
-
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Python+Full+Stack+Developer;Artificial+Intelligence+Student;Creating+Beautiful+User+Experiences;Always+Learning+Something+New"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=VarshaGunasekaran&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/VarshaGunasekaran?style=for-the-badge&color=0891b2"/>
-
-<img src="https://img.shields.io/github/stars/VarshaGunasekaran?style=for-the-badge&color=0891b2"/>
-
-</p>
-
----
-
-# ⚡ Developer Dashboard
-
-```yaml
-Name        : Varsha G
-
-Location    : Chennai, Tamil Nadu 🇮🇳
-
-Education   : B.Tech AI & Data Science
-
-College     : Meenakshi College of Engineering
-
-Role        : Python Full Stack Developer
-
-Status      : Open for Internship
-
-Current Goal: Building AI Powered Web Applications
-<!-- ========================================= -->
-<!--              TECH STACK                   -->
-<!-- ========================================= -->
-
-<h2 align="center">⚒ Tech Arsenal</h2>
-
-<p align="center">
-<i>Technologies I use to build intelligent, scalable and modern applications.</i>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Applications;Python+Full+Stack+Developer;Creating+Modern+Web+Experiences;Always+Learning+Something+New"/>
 
 <br>
 
-<h3 align="center">💻 Programming Languages</h3>
+<img src="https://komarev.com/ghpvc/?username=VarshaGunasekaran&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<p align="center">
+<img src="https://img.shields.io/github/followers/VarshaGunasekaran?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,js"/>
+<img src="https://img.shields.io/github/stars/VarshaGunasekaran?style=for-the-badge"/>
 
+</div>
+
+---
+
+## 🚀 Welcome
+
+I'm **Varsha G**, a B.Tech Artificial Intelligence & Data Science student passionate about developing AI-powered and full-stack web applications.
+
+I enjoy transforming innovative ideas into practical, user-friendly solutions while continuously expanding my knowledge in software development, artificial intelligence, and modern web technologies.
+
+Currently seeking opportunities to contribute, learn, and grow as a Software Developer.
+
+---
+# ⚡ Developer Dashboard
+
+```yaml
+Name          : Varsha G
+Role          : AI & Data Science Student
+Specialization: Python Full Stack Development
+Location      : Chennai, Tamil Nadu, India 🇮🇳
+Status        : 🟢 Open for Internship Opportunities
+Education     : B.Tech Artificial Intelligence & Data Science
+College       : Meenakshi College of Engineering
+Current Focus : AI • Full Stack Development • Problem Solving
+```
+
+---
+
+# 👩‍💻 About Me
+
+I'm a passionate **Artificial Intelligence & Data Science** student with a strong interest in building intelligent, user-friendly, and scalable web applications.
+
+My journey revolves around combining **AI**, **Python**, and **modern web technologies** to solve real-world problems through practical software solutions.
+
+I enjoy learning new technologies, exploring innovative ideas, and transforming them into impactful projects.
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 Artificial Intelligence
+- 🐍 Python Full Stack Development
+- 🌐 Modern Frontend Development
+- 🧠 Data Analytics
+- 📱 Responsive UI/UX Design
+
+---
+
+## 🎯 Career Objective
+
+To contribute as a Software Developer where I can apply my technical skills, continuously learn emerging technologies, and build innovative solutions that create real-world impact.
+
+---
+# ⚒️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
 ---
 
-<h3 align="center">🎨 Frontend Development</h3>
+### 🎨 Frontend Development
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 ---
 
-<h3 align="center">⚙ Backend & Database</h3>
+### ⚙️ Backend Development
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=django,mongodb"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=django" />
 </p>
 
 ---
 
-<h3 align="center">🛠 Tools & Platforms</h3>
+### 🗄️ Database
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-<p align="center">
+---
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+### 🛠️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 
 </p>
-
-<br>
-
-<div align="center">
-
-| Focus Area | Current Level |
-|------------|---------------|
-| 🐍 Python Development | ⭐⭐⭐⭐⭐ |
-| 🌐 Frontend Development | ⭐⭐⭐⭐☆ |
-| ⚙ Django Development | ⭐⭐⭐⭐☆ |
-| 🗄 MongoDB | ⭐⭐⭐☆☆ |
-| 🤖 Artificial Intelligence | ⭐⭐⭐⭐☆ |
-| 📊 Data Analysis | ⭐⭐⭐⭐☆ |
 
 </div>
 
 ---
-<!-- ========================================= -->
-<!--        EXPERIENCE & EDUCATION            -->
-<!-- ========================================= -->
 
-<h2 align="center">💼 Professional Journey</h2>
+## 🚀 Core Strengths
 
-<br>
+```text
+🐍 Python Development        ██████████
 
-<table align="center">
+🌐 Frontend Development      █████████░
 
-<tr>
-<td width="80">
+⚙️ Django Development        ████████░░
 
-🧑‍💻
+🗄️ MongoDB                  ███████░░░
 
-</td>
+🤖 Artificial Intelligence   ████████░░
 
-<td>
+📊 Data Analytics            █████████░
+```
 
-### Python Full Stack Developer Intern
+---
 
+## 💡 What I Enjoy Building
+
+- 🤖 AI-powered Applications
+- 🌐 Responsive Websites
+- 📊 Data-driven Solutions
+- ⚡ Full Stack Web Applications
+- 🎯 User-friendly Interfaces
+
+---# 💼 Professional Experience
+
+## 🏢 Python Full Stack Developer Intern
 **Great Minds Technology**
 
-📅 Apr 2025 – Mar 2026
+📅 **2025 – Present**
 
-- Developed Python-based web applications using Django.
-- Integrated frontend and backend components.
-- Built scalable and responsive web solutions.
+- 💻 Developed responsive full-stack web applications using Python and Django.
+- 🎨 Built clean and user-friendly interfaces.
+- ⚡ Integrated frontend with backend functionalities.
+- 🚀 Worked on real-world software development projects.
 
-</td>
-</tr>
+---
 
-<tr>
-<td>
-
-🤝
-
-</td>
-
-<td>
-
-### Career Readiness Volunteer
-
-**Team Everest**
-
-📅 Dec 2025 – Feb 2026
-
-- Participated in career readiness initiatives.
-- Mentored students through collaborative activities.
-- Strengthened communication and teamwork skills.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-💻
-
-</td>
-
-<td>
-
-### Full Stack Developer Intern
-
+## 🌐 Full Stack Development Intern
 **PS8Network**
 
-📅 Dec 2023 – Apr 2024
+📅 **2024**
 
-- Assisted in frontend and backend development.
-- Improved website usability and responsiveness.
-- Collaborated on modern web applications.
+- 🌍 Assisted in designing responsive websites.
+- ⚙️ Improved website performance and usability.
+- 🤝 Collaborated with development teams on practical projects.
 
-</td>
-</tr>
+---
 
-</table>
+## 🤝 Volunteer
+**Team Everest NGO**
+
+📅 **2025**
+
+- 📢 Participated in community development activities.
+- 👥 Improved leadership and teamwork skills.
+- 💡 Contributed to social impact initiatives.
 
 ---
 
 # 🎓 Education
 
-<table align="center">
+## 🎓 Bachelor of Technology (B.Tech)
 
-<tr>
+**Artificial Intelligence & Data Science**
 
-<td>
+🏫 Meenakshi College of Engineering
 
-🎓
+📍 Chennai, Tamil Nadu
 
-</td>
-
-<td>
-
-## Bachelor of Technology
-
-### Artificial Intelligence & Data Science
-
-**Meenakshi College of Engineering**
-
-📍 Chennai
-
-📅 2023 – 2027
-
-</td>
-
-</tr>
-
-</table>
+📅 **2023 – 2027**
 
 ---
 
 # 📜 Certifications
 
+🏅 Python Full Stack Development
+
 🏅 Power BI for Data Analytics
 
 🏅 Advanced 3D Modeling for Smart Applications
 
-🏅 Foundation of Stock Market for Beginners
+🏅 Foundation of Stock Market
+
+🏅 Artificial Intelligence & Data Science Workshops
 
 ---
 
-# 🌟 Highlights
+# 🏆 Achievements
 
-✨ Python Full Stack Development
+✨ Built multiple real-world web applications.
 
-✨ Artificial Intelligence & Data Science
+✨ Developed AI-powered Internship Scam Detection System.
 
-✨ Django Web Development
+✨ Created modern responsive portfolio websites.
 
-✨ Responsive UI Design
+✨ Passionate about UI/UX and clean development.
 
-✨ Data Analysis
-
-✨ Team Collaboration
-
----<!-- ========================================= -->
-<!--            FEATURED PROJECTS             -->
-<!-- ========================================= -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-Projects that reflect my passion for AI, Full Stack Development, and creating meaningful user experiences.
-</p>
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<h3>🛡 InternShield AI</h3>
-
-AI-powered Internship Scam Detection System that analyzes internship offers and identifies suspicious opportunities using intelligent rule-based analysis.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
-**Status**
-
-🟢 Completed
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3>🚀 InternScope</h3>
-
-A modern internship discovery platform designed to help students explore internship opportunities through a clean and responsive interface.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
-**Status**
-
-🟢 Completed
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<h3>📚 AptiVerse</h3>
-
-Interactive aptitude preparation platform featuring practice questions, quizzes, performance tracking, and a user-friendly learning experience.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
-**Status**
-
-🟢 Completed
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td>
-
-<h3>❤️ JuneVerse</h3>
-
-A Netflix-inspired relationship storytelling platform featuring cinematic UI, timeline-based memories, smooth animations, and immersive interactions.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
-**Status**
-
-🟢 Ongoing
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-<h3>🌐 Personal Portfolio</h3>
-
-A modern portfolio website showcasing my projects, technical skills, internships, certifications, and achievements through an elegant and responsive design.
-
-HTML • CSS • JavaScript
-
-<a href="https://varshagunasekaran.github.io/My-Portfolio">
-<img src="https://img.shields.io/badge/Visit Portfolio-0078D4?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
+✨ Continuously learning emerging technologies.
 
 ---
 
-## 📈 Current Focus
+# 🌱 Currently Learning
 
-🛡 Building AI-powered solutions
+```text
+🐍 Advanced Python
 
-🌐 Developing responsive web applications
+🌐 Django Framework
 
-📚 Exploring Machine Learning concepts
+🤖 Artificial Intelligence
 
-🚀 Preparing for Software Development roles
+📊 Data Analytics
 
----<!-- ========================================= -->
-<!--            GITHUB ANALYTICS              -->
-<!-- ========================================= -->
+🎨 UI / UX Design
 
-<h2 align="center">📊 Developer Analytics</h2>
+🧠 Problem Solving
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VarshaGunasekaran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VarshaGunasekaran&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaGunasekaran&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VarshaGunasekaran&theme=tokyonight"/>
-
-</p>
+☁️ Cloud Fundamentals
+```
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
+# 🎯 Career Goals
 
-<p align="center">
+- 🚀 Become a Software Development Engineer (SDE)
+
+- 🤖 Build impactful AI-powered applications
+
+- 🌍 Contribute to Open Source
+
+- 📈 Strengthen Full Stack Development skills
+
+- 💼 Secure a rewarding Software Developer role
+
+---# 🚀 Featured Projects
+
+## 🛡️ InternShield AI
+### AI-Based Internship Scam Detection System
+
+An intelligent web application that analyzes internship offers and helps students identify fraudulent or suspicious opportunities using a rule-based AI detection system.
+
+**✨ Features**
+- Detects suspicious internship offers
+- Risk analysis and recommendations
+- PDF internship offer checking
+- Professional and responsive interface
+
+**🛠 Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge)](YOUR_LIVE_LINK)
+
+---
+
+## 🌐 InternScope
+### Internship Discovery Platform
+
+A premium internship portal designed to help students discover opportunities through a modern, responsive interface with clean UI and intuitive navigation.
+
+**✨ Features**
+- Internship listings
+- Company details
+- Responsive design
+- Modern dashboard
+
+**🛠 Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge)](YOUR_LIVE_LINK)
+
+---
+
+## 📚 AptiVerse
+### Aptitude Learning Platform
+
+A complete aptitude preparation platform with quizzes, practice modules, score tracking, and an engaging learning experience.
+
+**✨ Features**
+- Practice questions
+- Timed quizzes
+- Performance tracking
+- Interactive UI
+
+**🛠 Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge)](YOUR_LIVE_LINK)
+
+---
+
+## ❤️ JuneVerse
+### Netflix-Inspired Interactive Experience
+
+A cinematic relationship website inspired by Netflix, featuring animated storytelling, profile selection, timeline memories, and immersive UI.
+
+**✨ Features**
+- Netflix-inspired interface
+- Animated transitions
+- Interactive timeline
+- Responsive design
+
+**🛠 Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge)](YOUR_LIVE_LINK)
+
+---
+
+## 🌐 Personal Portfolio
+
+My personal portfolio showcasing projects, skills, certifications, internships, and technical journey with a modern UI.
+
+**🛠 Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0078D4?style=for-the-badge)](https://varshagunasekaran.github.io/My-Portfolio)
+
+---
+
+# 🎯 What I'm Working On
+
+- 🛡️ Enhancing AI-powered web applications
+- 🌐 Building responsive full-stack projects
+- 📚 Exploring Artificial Intelligence concepts
+- 🚀 Strengthening Python & Django development
+- 💡 Learning modern software engineering practices
+
+---# 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 GitHub Statistics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VarshaGunasekaran&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaGunasekaran&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=VarshaGunasekaran&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VarshaGunasekaran&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+<div align="center">
 
-<p align="center">
+### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=VarshaGunasekaran&theme=tokyonight&no-frame=true&column=4&margin-w=12"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VarshaGunasekaran&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Coding Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarshaGunasekaran&theme=tokyonight"/>
+
+</div>
 
 ---
 
-<h2 align="center">📊 GitHub Summary</h2>
+## 🚀 Development Philosophy
 
-<p align="center">
+> *"Every project is an opportunity to learn, improve, and create something meaningful. I believe in writing clean, maintainable code while continuously exploring new technologies."*
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VarshaGunasekaran&theme=tokyonight"/>
+---# 🤝 Let's Connect
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VarshaGunasekaran&theme=tokyonight"/>
+<div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VarshaGunasekaran&theme=tokyonight"/>
+<a href="https://github.com/VarshaGunasekaran">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-</p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://varshagunasekaran.github.io/My-Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
+
+# 💬 Quote I Believe In
+
+> **"Technology is most powerful when it solves real-world problems and improves people's lives."**
+
+---
+
+# 🌟 Thanks for Visiting
+
+If you enjoyed exploring my profile, feel free to ⭐ my repositories, connect with me, or check out my latest projects.
+
+I'm always open to learning, collaborating, and building impactful software.
+
+<div align="center">
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
+
+</div>
+
+------
+
+# 🐍 Contribution Snake
+
+> **This will work after you enable the GitHub Action.**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VarshaGunasekaran/VarshaGunasekaran/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+# 📈 Profile Summary
+
+<div align="center">
+
+| Profile | Status |
+|:--------:|:------:|
+| 💻 Full Stack Development | 🚀 Active |
+| 🤖 Artificial Intelligence | 📚 Learning |
+| 🌐 Open Source | 🌱 Growing |
+| 💼 Internship Ready | ✅ Yes |
+
+</div>
+
+---
+
+# 💙 Fun Fact
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Improve();
+
+    Repeat();
+
+}
+```
+
+---
+
+<div align="center">
+
+## 🌟 Thank You for Visiting My GitHub Profile!
+
+If you enjoyed my work,
+
+⭐ Star my repositories
+
+🍴 Explore my projects
+
+🤝 Connect with me
+
+🚀 Let's build something amazing together!
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
