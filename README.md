@@ -1,190 +1,184 @@
-<!--
-**VarshaGunasekaran/VarshaGunasekaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Varsha G</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+AI & Data Science Student | Full Stack Developer | Building Intelligent Web Applications
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Create a modern, premium, portfolio-style GitHub Profile README for my GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Python+%7C+Django+%7C+JavaScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
+</p>
 
-My GitHub username:
-VarshaGunasekaran
+---
 
-My Name:
-Varsha G
+# 🚀 About Me
 
-Role:
-AI & Data Science Student | Full Stack Developer | Frontend Developer
+- 🎓 B.Tech Artificial Intelligence & Data Science Student
+- 💻 Passionate Full Stack Developer
+- 🤖 Interested in AI, Machine Learning & Web Development
+- 🚀 Love building real-world projects with modern UI
+- 🌱 Currently learning React and advanced Full Stack Development
+- 💼 Looking for Software Development Internship opportunities
 
-Theme:
-Design the README like a modern SaaS landing page (similar to Vercel, Linear, GitHub Next, or Raycast), NOT like a traditional GitHub README.
+---
 
-Style Guidelines:
-- Professional
-- Premium
-- Minimal
-- Dark theme
-- Elegant spacing
-- ATS-friendly
-- Recruiter-friendly
-- Modern typography
-- No clutter
-- No excessive emojis
-- No anime or gaming style
-- Focus on projects and skills
-- Feel like a personal developer landing page.
+# 🌐 Connect With Me
 
-Include these sections:
+<p align="left">
 
-1. Hero Section
-- Large centered heading
-- Name
-- Professional tagline
-- Animated typing effect
-- Short one-line introduction
-- Smooth divider
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-2. About Me
-Write a professional paragraph (not bullet points) mentioning:
-- AI & Data Science undergraduate
-- Passionate Full Stack Developer
-- Interested in AI, Machine Learning, Frontend Development, and UI/UX
-- Love building real-world projects
-- Looking for internship opportunities
+<a href="https://varshagunasekaran.github.io/My-Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
-3. Current Mission
-Include stylish cards or a clean table showing:
-- Building practical AI solutions
-- Learning React
-- Improving Full Stack Development
-- Exploring Machine Learning
-- Open to internships and collaborations
+<a href="mailto:kgmvarsha@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
-4. Tech Stack
-Organize professionally into categories.
+</p>
 
-Languages
-- Python
-- Java
-- JavaScript
-- SQL
+---
 
-Frontend
-- HTML5
-- CSS3
-- JavaScript
+# 💻 Tech Stack
 
-Backend
-- Django
+<p align="center">
 
-Database
-- MongoDB
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,django,mongodb,git,github,vscode,figma"/>
 
-Tools
-- Git
-- GitHub
-- VS Code
-- Power BI
-- Excel
-- Canva
-- Figma
+</p>
 
-5. Featured Projects
+---
 
-Create beautiful project cards for:
+# 🚀 Featured Projects
 
-InternShield AI
-Description:
+## 🛡️ InternShield AI
+
 AI-powered Internship Scam Detection System that analyzes internship offers and identifies fraudulent opportunities.
 
-InternScope
-Description:
-Modern Internship Discovery Platform helping students explore internship opportunities.
+**Tech Stack**
 
-AptiVerse
-Description:
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 🚀 InternScope
+
+Modern Internship Discovery Platform helping students discover internship opportunities.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 📚 AptiVerse
+
 Interactive Aptitude Preparation Platform featuring quizzes, practice sessions and progress tracking.
 
-JuneVerse
-Description:
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## ❤️ JuneVerse
+
 Netflix-inspired relationship storytelling website with cinematic UI and animations.
 
-Portfolio Website
-Description:
-Personal portfolio showcasing projects, achievements and technical skills.
+**Tech Stack**
 
-Each card should contain:
-- Description
-- Tech Stack
-- Repository button placeholder
-- Live Demo button placeholder
+`HTML` `CSS` `JavaScript`
 
-6. Professional Experience
+---
 
-Python Full Stack Developer Intern
-Great Minds Technology
+# 📊 GitHub Stats
 
-Full Stack Intern
-PS8Network
+<p align="center">
 
-Career Readiness Volunteer
-Team Everest
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VarshaGunasekaran&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Display this as a clean timeline.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarshaGunasekaran&layout=compact&theme=tokyonight&hide_border=true"/>
 
-7. GitHub Analytics
+</p>
 
-Include:
-- GitHub Stats
-- GitHub Streak
-- Top Languages
-- Activity Graph
-- Visitor Counter
-- GitHub Trophies
+---
 
-8. Achievements
+# 🔥 GitHub Streak
 
-Mention:
-- Smart India Hackathon Participant
-- AI Projects
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VarshaGunasekaran&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VarshaGunasekaran&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VarshaGunasekaran&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+- Python Full Stack Developer Intern — Great Minds Technology
+- Full Stack Intern — PS8Network
+- Career Readiness Volunteer — Team Everest
+
+---
+
+# 🌱 Currently Learning
+
+- React
+- Machine Learning
 - Full Stack Development
-- Responsive UI Design
-- Continuous Learning
+- UI/UX Design
 
-9. Connect With Me
+---
 
-GitHub
-LinkedIn
-Portfolio
-Email
+# 🎯 Goals
 
-Use modern social badges.
+- Secure a Software Development Internship
+- Build impactful AI-powered applications
+- Contribute to Open Source
+- Enhance Full Stack Development skills
 
-10. Quote
+---
 
-Add a clean inspirational software engineering quote.
+# 💡 Favorite Quote
 
-11. Footer
+> "First, solve the problem. Then, write the code." — John Johnson
 
-Modern animated wave footer.
+---
 
-Requirements:
-- Use Markdown only.
-- Make everything responsive on GitHub.
-- Use GitHub Readme Stats.
-- Use GitHub Readme Activity Graph.
-- Use Shields.io badges.
-- Use SVG typing animation.
-- Add comments showing where to replace links.
-- Avoid generic templates.
-- Use premium spacing and layout.
-- Keep the README around 250–350 lines.
-- Make it unique and memorable.
-- The final result should look like a modern developer portfolio rather than a standard GitHub README.
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=VarshaGunasekaran&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+If you like my work, consider ⭐ starring my repositories and connecting with me.
+</p>
